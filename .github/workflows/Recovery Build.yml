@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/snt-Mikhail/device_nokia_CO2_sprout'
+        default: 'https://github.com/snt-Mikhail/android_device_nokia_CO2_sprout'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
